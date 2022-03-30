@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="img\anh.jpg" />
     <Content Include="index.html" />
+    <Content Include="main.js" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
